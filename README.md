@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 A collection of my solutions to [LeetCode](https://leetcode.com/u/PNRIVA/) problems.
 
 This repository is automatically updated with my submitted solutions and serves as a record of my progress in data structures, algorithms, and problem solving.
