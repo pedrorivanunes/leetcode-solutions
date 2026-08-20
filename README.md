@@ -27,6 +27,7 @@ When I find different approaches to the same problem, multiple solutions may be 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pedrorivanunes/leetcode-solutions/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pedrorivanunes/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@ When I find different approaches to the same problem, multiple solutions may be 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pedrorivanunes/leetcode-solutions/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pedrorivanunes/leetcode-solutions/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
